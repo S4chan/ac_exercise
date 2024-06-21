@@ -1,0 +1,21 @@
+body{
+  background-color: #FFC55A;
+}
+
+.navbar {
+  background-color: #FC4100;
+}
+
+.btn-show-info,
+#search-submit-button{
+  background-color: #2C4E80;
+}
+
+.pagination .page-link {
+  background-color: #FC4100;
+}
+
+.pagination .page-link:hover {
+  background-color: #FFC55A; 
+}
+
